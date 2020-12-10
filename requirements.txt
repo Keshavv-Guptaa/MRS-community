@@ -41,11 +41,6 @@ joblib==0.14.1
 jsonschema==3.2.0
 jupyter-client==5.3.4
 jupyter-core==4.6.2
-kivy-deps.angle==0.2.0
-kivy-deps.glew==0.2.0
-kivy-deps.gstreamer==0.2.0
-kivy-deps.sdl2==0.2.0
-kiwisolver==1.1.0
 llvmlite==0.32.1
 lxml==4.6.1
 MarkupSafe==1.1.1
